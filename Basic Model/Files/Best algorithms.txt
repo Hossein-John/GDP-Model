@@ -1,0 +1,18 @@
+Best algorithm: extra_tree
+Best hyperparameters: {'n_estimators': 37, 'max_features': 0.7878149044463055, 'max_leaves': 107}
+Accuracy: 0.9134028104281758
+
+
+Best algorithm: extra_tree
+Best hyperparameters: {'n_estimators': 281, 'max_features': 0.43723204070992605, 'max_leaves': 112}
+
+Accuracy: 0.9069433894864527
+
+---------------------------------------------------
+Fitting 5 folds for each of 324 candidates, totalling 1620 fits
+Best parameters: {'max_features': 0.5, 'max_leaf_nodes': 140, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 150}
+Accuracy: 0.9154918977964114
+
+Fitting 5 folds for each of 324 candidates, totalling 1620 fits
+Best parameters: {'max_features': 0.5, 'max_leaf_nodes': 140, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 150}
+Accuracy: 0.9154918977964114
