@@ -1,0 +1,161 @@
+,Country,Variable,Level,p-value,Stationary
+0,Austria,ED,Original,0.04080594621432427,True
+1,Austria,Expenditure,Original,0.0020122888262225497,True
+2,Austria,First_sector_GDP,First Difference,1.673291209969202e-11,True
+3,Austria,First_sector_Inv,First Difference,0.002345309421136984,True
+4,Austria,Irate,First Difference,0.004988447107554446,True
+5,Austria,Population,Second Difference,6.274060858929035e-06,True
+6,Austria,Tax,First Difference,3.7806349242463053e-07,True
+7,Austria,Trade,First Difference,1.3002967954092048e-06,True
+8,Belgium,ED,Original,0.0037485861757489856,True
+9,Belgium,Expenditure,First Difference,2.086941082109048e-08,True
+10,Belgium,First_sector_GDP,First Difference,4.4417520644044824e-14,True
+11,Belgium,First_sector_Inv,First Difference,1.4739229183185224e-05,True
+12,Belgium,Irate,First Difference,0.004988447107554446,True
+13,Belgium,Population,Second Difference,9.103149386799557e-08,True
+14,Belgium,Tax,First Difference,2.8250118280964462e-05,True
+15,Belgium,Trade,First Difference,0.00026651663852024396,True
+16,Croatia,ED,Second Difference,4.050225832323998e-27,True
+17,Croatia,Expenditure,First Difference,0.0003685544837571361,True
+18,Croatia,First_sector_GDP,Original,0.01660168928464353,True
+19,Croatia,First_sector_Inv,First Difference,2.139490522606839e-14,True
+20,Croatia,Irate,First Difference,0.004988447107554446,True
+21,Croatia,Population,First Difference,2.7506848757322533e-05,True
+22,Croatia,Tax,Third Difference,0.026145908425275383,True
+23,Croatia,Trade,First Difference,0.022807966262189925,True
+24,Cyprus,ED,First Difference,3.761571705055944e-08,True
+25,Cyprus,Expenditure,Second Difference,0.0044121069698468355,True
+26,Cyprus,First_sector_GDP,First Difference,4.67610677741148e-07,True
+27,Cyprus,First_sector_Inv,First Difference,0.019486295770185312,True
+28,Cyprus,Irate,First Difference,0.004988447107554446,True
+29,Cyprus,Population,First Difference,0.0005662328805604455,True
+30,Cyprus,Tax,First Difference,0.0001354265602121018,True
+31,Cyprus,Trade,First Difference,5.373217965027497e-11,True
+32,Denmark,ED,First Difference,2.187059584504111e-09,True
+33,Denmark,Expenditure,First Difference,3.189135151977212e-05,True
+34,Denmark,First_sector_GDP,First Difference,1.8254515572495594e-05,True
+35,Denmark,First_sector_Inv,First Difference,3.346529949108043e-05,True
+36,Denmark,Irate,First Difference,0.006825626155242486,True
+37,Denmark,Population,Third Difference,5.673000131987691e-07,True
+38,Denmark,Tax,First Difference,0.04848381288611592,True
+39,Denmark,Trade,First Difference,4.1274337066008195e-07,True
+40,Estonia,ED,Original,0.017858035099313704,True
+41,Estonia,Expenditure,First Difference,1.8504041203779787e-07,True
+42,Estonia,First_sector_GDP,First Difference,1.094820930470407e-06,True
+43,Estonia,First_sector_Inv,Original,0.012767799766472951,True
+44,Estonia,Irate,First Difference,0.004988447107554446,True
+45,Estonia,Population,Second Difference,0.00043845438853470914,True
+46,Estonia,Tax,First Difference,0.016338382449589375,True
+47,Estonia,Trade,First Difference,0.00010764946432038219,True
+48,Finland,ED,Second Difference,3.173379490881612e-10,True
+49,Finland,Expenditure,First Difference,0.017274423869192448,True
+50,Finland,First_sector_GDP,Third Difference,0.03863935665590096,True
+51,Finland,First_sector_Inv,First Difference,0.00021728433529243687,True
+52,Finland,Irate,First Difference,0.004988447107554446,True
+53,Finland,Population,Second Difference,0.003578225205902229,True
+54,Finland,Tax,First Difference,2.6291907795559883e-09,True
+55,Finland,Trade,First Difference,6.143076150207095e-08,True
+56,France,ED,First Difference,4.650923053768963e-13,True
+57,France,Expenditure,First Difference,0.003834278158504006,True
+58,France,First_sector_GDP,Original,5.182968431232703e-05,True
+59,France,First_sector_Inv,Original,0.00968418189628906,True
+60,France,Irate,First Difference,0.004988447107554446,True
+61,France,Population,Second Difference,7.913885912241485e-05,True
+62,France,Tax,Original,0.02246608350930371,True
+63,France,Trade,First Difference,0.0016981694055618849,True
+64,Germany,ED,First Difference,4.069557433996769e-13,True
+65,Germany,Expenditure,Original,0.0012553074935625957,True
+66,Germany,First_sector_GDP,Original,0.0023135884863116248,True
+67,Germany,First_sector_Inv,First Difference,1.0703790288263273e-06,True
+68,Germany,Irate,First Difference,0.004988447107554446,True
+69,Germany,Population,First Difference,0.005542154114970106,True
+70,Germany,Tax,First Difference,0.0005194165808451232,True
+71,Germany,Trade,First Difference,1.0365139914332886e-07,True
+72,Greece,ED,First Difference,5.6018250884164095e-05,True
+73,Greece,Expenditure,First Difference,1.2597248947735778e-08,True
+74,Greece,First_sector_GDP,Second Difference,0.004764487804506284,True
+75,Greece,First_sector_Inv,First Difference,2.0556720027650782e-08,True
+76,Greece,Irate,First Difference,0.004988447107554446,True
+77,Greece,Population,Third Difference,7.789021016927069e-05,True
+78,Greece,Tax,First Difference,2.524228497870309e-05,True
+79,Greece,Trade,First Difference,0.022317805789449415,True
+80,Ireland,ED,First Difference,0.0006684518549759113,True
+81,Ireland,Expenditure,First Difference,2.939859882857471e-06,True
+82,Ireland,First_sector_GDP,Second Difference,1.8162979787697572e-07,True
+83,Ireland,First_sector_Inv,Original,0.0013424253254142838,True
+84,Ireland,Irate,First Difference,0.004988447107554446,True
+85,Ireland,Population,Second Difference,0.007458742679409758,True
+86,Ireland,Tax,First Difference,1.1069321550134328e-05,True
+87,Ireland,Trade,Fifth Difference,7.242527110702066e-14,True
+88,Italy,ED,First Difference,2.252825595519737e-11,True
+89,Italy,Expenditure,First Difference,1.0954618303097478e-05,True
+90,Italy,First_sector_GDP,First Difference,0.0005983996824770353,True
+91,Italy,First_sector_Inv,Original,0.0052725003926642955,True
+92,Italy,Irate,First Difference,0.004988447107554446,True
+93,Italy,Population,Second Difference,4.975594447296186e-05,True
+94,Italy,Tax,First Difference,1.0617326723202912e-05,True
+95,Italy,Trade,First Difference,3.994332554322656e-06,True
+96,Latvia,ED,First Difference,3.855409781696814e-05,True
+97,Latvia,Expenditure,First Difference,6.14340884437062e-05,True
+98,Latvia,First_sector_GDP,First Difference,0.0027995555480323816,True
+99,Latvia,First_sector_Inv,First Difference,9.562329598288881e-05,True
+100,Latvia,Irate,First Difference,0.004988447107554446,True
+101,Latvia,Population,Second Difference,0.0003933703513688968,True
+102,Latvia,Tax,Third Difference,0.009026287094588699,True
+103,Latvia,Trade,First Difference,1.693350838027655e-05,True
+104,Lithuania,ED,Fourth Difference,4.534911793988115e-09,True
+105,Lithuania,Expenditure,Original,0.02434780766882675,True
+106,Lithuania,First_sector_GDP,First Difference,0.0006706218413249067,True
+107,Lithuania,First_sector_Inv,First Difference,0.026587617300491178,True
+108,Lithuania,Irate,First Difference,0.004988447107554446,True
+109,Lithuania,Population,Second Difference,6.257338356696064e-05,True
+110,Lithuania,Tax,Original,0.012668976484325474,True
+111,Lithuania,Trade,First Difference,1.3381594349317935e-09,True
+112,Luxembourg,ED,First Difference,4.475382602923682e-06,True
+113,Luxembourg,Expenditure,First Difference,0.00014432186488110647,True
+114,Luxembourg,First_sector_GDP,Original,0.001945258467220593,True
+115,Luxembourg,First_sector_Inv,Second Difference,0.004817800987547348,True
+116,Luxembourg,Irate,First Difference,0.004988447107554446,True
+117,Luxembourg,Population,Second Difference,8.377291719264467e-05,True
+118,Luxembourg,Tax,Second Difference,0.0010849753732096474,True
+119,Luxembourg,Trade,First Difference,0.024018154350679506,True
+120,Netherlands,ED,First Difference,2.86465222291341e-08,True
+121,Netherlands,Expenditure,First Difference,1.235371677459636e-06,True
+122,Netherlands,First_sector_GDP,First Difference,2.924737010706432e-08,True
+123,Netherlands,First_sector_Inv,First Difference,6.862282310658737e-06,True
+124,Netherlands,Irate,First Difference,0.004988447107554446,True
+125,Netherlands,Population,Third Difference,0.0008607963149940088,True
+126,Netherlands,Tax,First Difference,1.619814594617278e-05,True
+127,Netherlands,Trade,Third Difference,0.0009317396824660368,True
+128,Portugal,ED,First Difference,0.0024213617260638908,True
+129,Portugal,Expenditure,First Difference,8.07986066941311e-06,True
+130,Portugal,First_sector_GDP,First Difference,1.1115634549297023e-16,True
+131,Portugal,First_sector_Inv,Second Difference,4.2641889882083936e-07,True
+132,Portugal,Irate,First Difference,0.004988447107554446,True
+133,Portugal,Population,Second Difference,0.025537529489425906,True
+134,Portugal,Tax,First Difference,0.00015056493476365605,True
+135,Portugal,Trade,First Difference,0.006979238644587965,True
+136,Slovakia,ED,Original,0.00744778322159058,True
+137,Slovakia,Expenditure,First Difference,1.6302307261015022e-07,True
+138,Slovakia,First_sector_GDP,First Difference,1.4684951636419301e-10,True
+139,Slovakia,First_sector_Inv,First Difference,8.232212596075026e-08,True
+140,Slovakia,Irate,First Difference,0.004988447107554446,True
+141,Slovakia,Population,First Difference,0.005048555785874815,True
+142,Slovakia,Tax,Original,0.0030798971678461097,True
+143,Slovakia,Trade,Original,0.009142282402904253,True
+144,Slovenia,ED,Original,0.026858588700342058,True
+145,Slovenia,Expenditure,Original,0.017609209436964205,True
+146,Slovenia,First_sector_GDP,First Difference,0.010455098934600506,True
+147,Slovenia,First_sector_Inv,First Difference,5.580483556490253e-10,True
+148,Slovenia,Irate,First Difference,0.004988447107554446,True
+149,Slovenia,Population,First Difference,0.002468920728250846,True
+150,Slovenia,Tax,Original,0.006429488238641708,True
+151,Slovenia,Trade,First Difference,4.4578765928870335e-05,True
+152,Spain,ED,First Difference,0.0010723074252791615,True
+153,Spain,Expenditure,First Difference,3.8961905579175316e-05,True
+154,Spain,First_sector_GDP,First Difference,0.0001093910341887917,True
+155,Spain,First_sector_Inv,Fifth Difference,0.0032171604638029138,True
+156,Spain,Irate,First Difference,0.004988447107554446,True
+157,Spain,Population,Second Difference,0.0018131410561162127,True
+158,Spain,Tax,First Difference,0.0014523924119476486,True
+159,Spain,Trade,First Difference,0.02363712294812104,True
